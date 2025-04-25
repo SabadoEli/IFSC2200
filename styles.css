@@ -94,3 +94,22 @@ footer {
     padding: 10px;
     margin-top: 20px;
 }
+
+
+.pop-culture-examples {
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-left: 5px solid #007acc;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+
+.pop-culture-examples .example {
+    margin-bottom: 20px;
+}
+
+.pop-culture-examples h3 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: #0056b3;
+}
